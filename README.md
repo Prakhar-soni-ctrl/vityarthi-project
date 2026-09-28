@@ -30,6 +30,63 @@ Project includes four modules :-
   
 # STEPS to install and run the project:-
 
+## STEP-1 Download VS-CODE according to your system
+Download VS Code here:
+
+https://code.visualstudio.com/download
+
+you can download vs code according to your operating system such as:-
+
+1. Windows
+2. Linux
+3. MAC
+
+## STEP-2 Installing Python extension in vs-code
+
+- After successfully installing python , add python extensions to it
+
+  1. Open VS Code.
+2. Go to the **Extensions** section.
+3. Search **Python** in the search bar.
+4. Install the Python extension.
+
+This extension will help you to run Python programs in VS Code.
+
+
+## STEP-3 Installing Python
+
+Now we need to install Python on our computer.
+
+You can download Python from:
+https://www.python.org/downloads/
+
+Download Python according to your system and install it.
+
+If you are using Windows, make sure to check:
+
+**Add Python to PATH**
+
+during installation.
+
+
+# STEP-4 Downloading My Project
+You can download my project from my GitHub repository:
+
+
+Open the repository and click on:
+
+**Code → Download ZIP**
+
+After downloading, extract the ZIP file.
+
+You can also clone the repository if you already use Git.
+
+
+
+
+
+
+
 
 
 
