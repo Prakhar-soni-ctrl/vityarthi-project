@@ -5,13 +5,13 @@
 2. I have used **PYTHON** language to build this project and used **VS-CODE** to access it.
   
 # Overview
-In project you would find the basic knowledge that how books are issued/returned in library for students/teachers.
+-  In project you would find the basic knowledge that how books are issued/returned in library for students/teachers.
 Project includes four modules :-
 1.
 2.
 3.
 4.
-In this README file i will show the roadmap to reach to my project and run it.
+ - In this README file i will show the roadmap to reach to my project and run it.
 
 # Features
 1. Member Management: verification of credentials of students/teachers and track their profile
