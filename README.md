@@ -71,7 +71,7 @@ during installation.
 
 # STEP-4 Downloading My Project
 You can download my project from my GitHub repository:
-
+https://github.com/Prakhar-soni-ctrl/vityarthi-project.git
 
 Open the repository and click on:
 
@@ -80,6 +80,7 @@ Open the repository and click on:
 After downloading, extract the ZIP file.
 
 You can also clone the repository if you already use Git.
+
 
 
 
