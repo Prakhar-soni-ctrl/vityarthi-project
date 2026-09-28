@@ -23,7 +23,7 @@ In this README file i will show the roadmap to reach to my project and run it.
 # Technologies/Tools used:-
 - **Programming Language**: **PYTHON** to build project.
 - **Code editors**: **VS-CODE** to type and run codes.
-- **Extensions**: **Python extension** to  access python language on vs-code.
+- **Extensions**: **Python extension** to  access python language on vs-code. 
 -  
 
 
