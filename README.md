@@ -81,6 +81,30 @@ After downloading, extract the ZIP file.
 
 You can also clone the repository if you already use Git.
 
+this is how my code looks like
+
+
+![view_file](screenshots/Screenshots/viewfile.png)
+
+## code of catlog 
+![catlog_code](screenshots/Screenshots/catlog.png)
+## issue code
+![issue](screenshots/Screenshots/issue.png)
+## return file code
+
+![returnfile](screenshots/Screenshots/returnfile.png)
+## verification file code
+
+![verification](screenshots/Screenshots/verification.png)
+
+## OUTPUT file 
+
+[output1](screenshots/Screenshots/main1.png)
+[output2](screenshots/Screenshots/main2.png)
+[output3](screenshots/Screenshots/main3.png)
+
+
+
 
 
 
