@@ -6,18 +6,29 @@
   
 # Overview
 -  In project you would find the basic knowledge that how books are issued/returned in library for students/teachers.
-Project includes four modules :-
-1.
-2.
-3.
-4.
+Project includes five modules :-
+
+1.main.py
+
+2.verification.py
+
+3.catalog.py
+
+4.issue.py
+
+5.return_fine.py
  - In this README file i will show the roadmap to reach to my project and run it.
 
 # Features:-
+
 1. Member Management: verification of credentials of students/teachers and track their profile
+
 2. Inventory browsing: book by title ,author, book ID
+
 3. Admin dashboard: monitoring total books , issued books , available books to issue.
+
 4. Issue and return tracking: manage borrowing and return records.
+
 5. Dates and fine calculation: tracking of issued and return dates , calculate penalties according to
                                late returns.
 
