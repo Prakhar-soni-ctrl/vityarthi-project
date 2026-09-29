@@ -42,15 +42,41 @@
 
 **Library administrators / school or college management**
 
-- They may use the system to maintain records and monitor library usage
-   
+- They may use the system to maintain records and monitor library usage.
+
+## High level features
+
+1. **User Authentication**
+    - verify that book issuer is student/teacher
+ 
+    - distinguish between criteria for book issue/return for teacher/student.
+  
+2. **Book management**
+
+    -  register and maintain book records (book ID, author name , tittle)
+  
+    -  Track book inventory and availability status
+  
+    -  monitor issued vs available books in library
+
+3. **Issue & return management**
+
+    - Issue books to verified users
+
+    - record issue date and expected date
+
+    - process book returns and update inventory
+
+5. **Fine calculation**
+ 
+   - Calculate fines based on overdue days
+
+   - Apply different fine rates for students vs. teachers
+
+   - Track fine payments and outstanding dues
 
 
-
-
-
-
-
+  
 
 
 
