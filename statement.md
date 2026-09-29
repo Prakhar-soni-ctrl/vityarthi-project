@@ -20,7 +20,25 @@
  ## Target users
  This project is based on book issue/return management of library
  
-   
+   **Students**
+
+-They issue and return books
+-They need to be verified before borrowing
+-They may also need to know return dates and fines
+
+**Teachers / Faculty**
+
+-They also borrow books from the library
+-Their fine rules or borrowing rules may differ from students
+
+**Library staff / Librarians**
+
+-They manage book records, issue/return transactions, and fines
+-They need to track which books are available or issued
+
+**Library administrators / school or college management**
+
+They may use the system to maintain records and monitor library usage
    
 
 
