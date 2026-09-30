@@ -54,7 +54,7 @@ you can download vs code according to your operating system such as:-
 
 ## STEP-2 Installing Python extension in vs-code
 
-- After successfully installing python , add python extensions to it
+- After successfully installing python 3.14.7 or  further most latest versions of python , add python extensions to it
 
   1. Open VS Code.
 2. Go to the **Extensions** section.
